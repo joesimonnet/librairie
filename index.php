@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Librairie Mot à Mot</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
 <body>
 <header>
@@ -16,7 +17,7 @@
     <li><a href="#">Coups de coeurs</a></li>
     <li><a href="contact.php">Contact</a></li>
     <li><a href="inscription.php">Inscription</a></li>
-    <li><a href="#">Connexion</a></li>
+    <li><a href="connexion.php">Connexion</a></li>
     <li><a href="#">Administration</a></li>
 </ul>
 <div class="search"> BARRE DE RECHERCHE <a href="#">Avancé</a></div>
