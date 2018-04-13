@@ -12,10 +12,10 @@
 <h1>Librairie Mot à Mot</h1>
 <nav>
 <ul>
-    <li><a href="#">accueil</a></li>
+    <li><a href="index.php">accueil</a></li>
     <li><a href="#">Coups de coeurs</a></li>
-    <li><a href="#">Contact</a></li>
-    <li><a href="#">Inscription</a></li>
+    <li><a href="contact.php">Contact</a></li>
+    <li><a href="inscription.php">Inscription</a></li>
     <li><a href="#">Connexion</a></li>
     <li><a href="#">Administration</a></li>
 </ul>
